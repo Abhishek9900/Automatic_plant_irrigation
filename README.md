@@ -13,3 +13,4 @@ Harware used -
 3. DHT11 sensor
 4. Soil moisture sensor module
 5. 5V DC water pump
+6. LEDs
